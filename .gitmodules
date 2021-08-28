@@ -1,0 +1,3 @@
+[submodule "phase-4-rails-and-active-record-lab"]
+	path = phase-4-rails-and-active-record-lab
+	url = git@github.com:alieudev/phase-4-rails-and-active-record-lab.git
