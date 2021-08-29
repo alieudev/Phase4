@@ -1,3 +1,6 @@
 [submodule "phase-4-rails-and-active-record-lab"]
 	path = phase-4-rails-and-active-record-lab
 	url = git@github.com:alieudev/phase-4-rails-and-active-record-lab.git
+[submodule "RubyLabs/RailsFundamentals/phase-4-rails-routing-basics-readme"]
+	path = RubyLabs/RailsFundamentals/phase-4-rails-routing-basics-readme
+	url = git@github.com:alieudev/phase-4-rails-routing-basics-readme.git
