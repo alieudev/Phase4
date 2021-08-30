@@ -4,3 +4,9 @@
 [submodule "RubyLabs/RailsFundamentals/phase-4-rails-routing-basics-readme"]
 	path = RubyLabs/RailsFundamentals/phase-4-rails-routing-basics-readme
 	url = git@github.com:alieudev/phase-4-rails-routing-basics-readme.git
+[submodule "RubyLabs/RailsFundamentals/phase-4-rails-routing-basics-lab"]
+	path = RubyLabs/RailsFundamentals/phase-4-rails-routing-basics-lab
+	url = git@github.com:alieudev/phase-4-rails-routing-basics-lab.git
+[submodule "RubyLabs/RailsFundamentals/phase-4-rails-route-params-lab"]
+	path = RubyLabs/RailsFundamentals/phase-4-rails-route-params-lab
+	url = git@github.com:alieudev/phase-4-rails-route-params-lab.git
