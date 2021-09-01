@@ -13,3 +13,6 @@
 [submodule "RubyLabs/RailsFundamentals/phase-4-rails-create-read-lab"]
 	path = RubyLabs/RailsFundamentals/phase-4-rails-create-read-lab
 	url = git@github.com:alieudev/phase-4-rails-create-read-lab.git
+[submodule "RubyLabs/RailsFundamentals/phase-4-rails-update-destroy-lab"]
+	path = RubyLabs/RailsFundamentals/phase-4-rails-update-destroy-lab
+	url = git@github.com:alieudev/phase-4-rails-update-destroy-lab.git
