@@ -16,3 +16,6 @@
 [submodule "RubyLabs/RailsFundamentals/phase-4-rails-update-destroy-lab"]
 	path = RubyLabs/RailsFundamentals/phase-4-rails-update-destroy-lab
 	url = git@github.com:alieudev/phase-4-rails-update-destroy-lab.git
+[submodule "RubyLabs/RailsFundamentals/phase-4-mini-project-crud"]
+	path = RubyLabs/RailsFundamentals/phase-4-mini-project-crud
+	url = git@github.com:alieudev/phase-4-mini-project-crud.git
