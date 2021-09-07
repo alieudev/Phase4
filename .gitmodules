@@ -19,3 +19,9 @@
 [submodule "RubyLabs/RailsFundamentals/phase-4-mini-project-crud"]
 	path = RubyLabs/RailsFundamentals/phase-4-mini-project-crud
 	url = git@github.com:alieudev/phase-4-mini-project-crud.git
+[submodule "RubyLabs/Validations/phase-4-active-record-validations-lab"]
+	path = RubyLabs/Validations/phase-4-active-record-validations-lab
+	url = git@github.com:alieudev/phase-4-active-record-validations-lab.git
+[submodule "phase-4-mock-challenge-camping-fun"]
+	path = phase-4-mock-challenge-camping-fun
+	url = git@github.com:alieudev/phase-4-mock-challenge-camping-fun.git
